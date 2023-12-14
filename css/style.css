@@ -451,16 +451,10 @@ article a {
     margin-bottom: 20px;
 }
 
-/* .align-menu :nth-child(0){
-    -webkit-animation: slide-in-top 0.75s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-    animation: slide-in-top 0.75s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-    animation-delay: 0.5s;
-} */
 
 .align-menu :nth-child(1){
     -webkit-animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
     /* animation: slide-in-top 0.75s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; */
-
 }
 
 
@@ -752,7 +746,7 @@ p {
 
 .container-menu .card {
     display: flex; 
-    transition: all 3s ease-in-out;
+    /* transition: all 10s ease-in-out; */
     /* transform: scale(0.95);  */
     /* animation: slide-in-top 0.75s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; */
 

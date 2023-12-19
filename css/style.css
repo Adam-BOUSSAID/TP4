@@ -453,23 +453,23 @@ article a {
 
 
 .align-menu :nth-child(1){
-    -webkit-animation: slide-in-top s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    -webkit-animation: slide-in-top 0.5s ;
     /* animation: slide-in-top 0.75s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; */
 }
 
 
 .align-menu :nth-child(2) {
-    -webkit-animation: slide-in-top 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    -webkit-animation: slide-in-top 0.75s ;
      /* animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; */
 } 
 
 .align-menu :nth-child(3) {
-    -webkit-animation: slide-in-top 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; 
+    -webkit-animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) ; 
     /* animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;  */
 }
 
 .align-menu :nth-child(4) {
-    -webkit-animation: slide-in-top 2.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    -webkit-animation: slide-in-top 1.25s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
     /* animation: slide-in-top 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both; */
 }
 
